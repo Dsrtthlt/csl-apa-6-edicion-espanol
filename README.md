@@ -38,5 +38,31 @@ Se agregó/modificó la sección `<locale xml:lang="es">` con los siguientes té
 ### Opción 1: Uso local
 1. Descargue el archivo `apa-6th-edition-es.csl`
 2. En su documento Quarto/YAML, especifique:
+
 ```yaml
 csl: apa-6th-edition-es.csl
+```
+## Casos de uso recomendados
+Investigadores que escriben en español
+Usuarios de Quarto/RStudio con problemas de babel
+Integración con Obsidian + Zotero + Better BibTeX
+Publicaciones académicas en revistas latinoamericanas
+
+## Licencia
+Este trabajo está bajo licencia Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0), heredada del estilo original de APA 6th edition.
+
+## Agradecimientos
+Estilo original: APA 6th edition por Simon Kornblith, Brenton M. Wiernik y contribuidores
+Documentación APA: Purdue OWL
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si encuentra errores o tiene sugerencias de mejora, por favor abra un issue o envíe un pull request.
+
+## Autor
+José Omar Pérez Baños - Profesor-investigador, Universidad Autónoma Metropolitana, Lerma
+
+## Versión
+Basado en: APA 6th edition (actualizado 2026-01-25)
+Modificación al español: 2026
+
+
