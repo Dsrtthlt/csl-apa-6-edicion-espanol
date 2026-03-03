@@ -1,0 +1,13 @@
+# Archivos temporales
+*.tmp
+*.swp
+*~
+
+# Archivos de compilación
+*.pdf
+*.docx
+
+# Configuración local del editor
+.vscode/
+.idea/
+.DS_Store
